@@ -3,6 +3,7 @@
 In short, these refer to the codename each game is based off of during it's development.
 
 They are as follows:  
+HOLA
 
 * T4 - World at War
 * T5 - Black Ops I
